@@ -29,7 +29,7 @@ You can view the exercises and tutorials by clicking the image:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Stephen313k/Emerging-technologies/blob/main/sklearn.ipynb)
 
 You can view the notebook in dynamic form by clicking the image:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Stephen313k/Emerging-technologies/blob/main/sklearn.ipynb/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Stephen313k/Emerging-technologies/HEAD?labpath=sklearn.ipynb)
 
 ## How to complete tutorials
 
