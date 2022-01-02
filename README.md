@@ -1,5 +1,6 @@
-# Overview of Numpy Random Package
-
+# Overview of the repository:
+Two main notebooks, scikit-learn.ipynb, and quantum-deutsch.ipynb
+Note: Extra exercises have been done in the extra folder such as: qiskit-introduction, iris-classification, and more.
 ***
 
 This repository contains an overview of the numpy.random package in a jupyter notebook.
