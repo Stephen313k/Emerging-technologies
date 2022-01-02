@@ -7,5 +7,5 @@ services:
     volumes:
       - .:/home/jovyan/repo
     environment:
-      JUPYTER_ENABLE_LAB: yes # yes would not work
+      JUPYTER_ENABLE_LAB: yes 
       GRANT_SUDO: yes
