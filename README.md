@@ -21,13 +21,17 @@ You can view the notebook in dynamic form by clicking the image:
 # Overview of Scikit Learn Exercises
 Support Vector Machines are explored and researched
 Exercises include:
+<br>
 Classification, Multi-class classification, Different SVM classifiers in the iris dataset, Unbalanced problems
 Regression, Plotting SVR using linear and non-linear kernels, Kernal Functions, Plotting Non-linear SVM, ect.
 
 ***
 # Overview of Qiskit Exercises
 Differences between classical and quantum computing are explored and researched.
-Exercises include: Circuit Basics, Simulating circuits, OpenQASM backend, Summary of Quantum Operations, Measurements, Arbitrary initialization
+Exercises include: 
+<br>
+Circuit Basics, Simulating circuits, OpenQASM backend, Summary of Quantum Operations, Measurements, Arbitrary initialization
+<br>
 Deutsch-Jozsa Algorithm: Research and explanation
 Exercises include: Different oracles, algorithm implementation and use in real devices
 
